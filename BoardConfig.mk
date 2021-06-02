@@ -18,7 +18,7 @@ TARGET_OTA_ASSERT_DEVICE := dipper
 TARGET_SCREEN_DENSITY := 520
 
 # Kernel
-TARGET_KERNEL_CONFIG := dipper_defconfig
+TARGET_KERNEL_CONFIG := canting-dipper_defconfig
 BOARD_KERNEL_CMDLINE += androidboot.selinux=permissive
 ###Clang-Proton
 TARGET_KERNEL_CLANG_COMPILE := true
