@@ -15,7 +15,7 @@ DEVICE_PATH := device/xiaomi/dipper
 TARGET_OTA_ASSERT_DEVICE := dipper
 
 # Display
-TARGET_SCREEN_DENSITY := 440
+TARGET_SCREEN_DENSITY := 520
 
 # Kernel
 TARGET_KERNEL_CONFIG := dipper_defconfig
